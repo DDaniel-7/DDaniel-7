@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DDaniel-7
 - 👀 I’m interested in learning code
-- 🌱 I’m currently learning java programing
 
 
 <!---
